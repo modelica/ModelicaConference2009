@@ -1,0 +1,7 @@
+* deltatheta [(flyer)](exhibitors/deltatheta/DeltathetaVertexFlyer.pdf)
+* Maplesoft-Teoresi [(flyer)](exhibitors/Maplesoft-Teoresi/Maplesim_by_Maplesoft.pdf)
+* MathCore [(folder)](exhibitors/MathCore/MathModelica-folder.pdf) [(documentation)](exhibitors/MathCore/MathModelica-modeling-simulation-documentation-analysis-final.pdf) [(news)](exhibitors/MathCore/News-in-MathModelica-2.1-HQ.pdf)
+* Modelon [(flyer)](exhibitors/Modelon/Modelon-Flyer.pdf)
+* OpenSourceModelicaConsortium [(flyer)](exhibitors/OpenSourceModelicaConsortium/OpenModelica-OpenSourceModelicaConsortium-2009.pdf)
+* TLK-Thermo [(energyviewer)](exhibitors/TLK-Thermo/TLK_EnergyViewer.pdf) [(stateviewer)](exhibitors/TLK-Thermo/TLK_StateViewer.pdf) [(thermoonline)](exhibitors/TLK-Thermo/TLKThermoOnline.pdf) [(til)](exhibitors/TLK-Thermo/TLK_TIL.pdf) [(tilmedia)](exhibitors/TLK-Thermo/TLK_TILMedia.pdf) [(tiscenter)](exhibitors/TLK-Thermo/TLK_TISCCenter.pdf)
+* XRG [(flyer)](exhibitors/XRG/XRG_Flyer_Modelica09.pdf)

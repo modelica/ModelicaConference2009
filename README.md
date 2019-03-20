@@ -5,19 +5,19 @@ The [Modelica Association](https://modelica.org) and [Politecnico di Milano](htt
 # Fact and figures about the conference
 
 * **Keynote talks** were given by representatives from **Dassault Systèmes**, **Daimler**, and **Siemens**, about the ITEA2 European Modelica-related research projects **EUROSYSLIB**, **MODELISAR**, and **OPENPROD**, which are boosting the application of the Modelica language in the industry as a standard tool for system design and verification.
-* **219 registered participants** attended the conference. **105 technical papers** were presented, 83 in regular sessions and 22 in the poster session. All technical papers are available in the online [Proceedings](proceedings/index.html).
+* **219 registered participants** attended the conference. **105 technical papers** were presented, 83 in regular sessions and 22 in the poster session. All technical papers are available in the online [Proceedings](proceedings/index.md).
 * 5 Tutorials were offered, ranging from introductory presentations of the Modelica language to more advanced topics such as optimization. Click here for more information.
 * **9 Modelica-enabled tools** were presented in the Tool presentation sessions. The Modelica language is well on his way to become the industry standard for engineering system modelling and simulation.
-* [13 Exhibitors](proceedings/pages/exhibitors.html) showed Modelica-related software and services throughout the conference duration.
+* [13 Exhibitors](proceedings/pages/exhibitors.md) showed Modelica-related software and services throughout the conference duration.
 
 # Conference Proceedings
 
 The conference program, book of abstracts and other information are available here:
 
-* Proceedings [(intro)](proceedings/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/043) [(zip)](https://github.com/modelica/ModelicaConference2009/releases/download/USB/Modelica2009.zip)
-  * [Sunday](proceedings/pages/MODEL09_ContentListWeb_1.html)
-  * [Monday](proceedings/pages/MODEL09_ContentListWeb_2.html)
-  * [Tuesday](proceedings/pages/MODEL09_ContentListWeb_3.html)
+* Proceedings [(intro)](proceedings/index.md) [(LiU E-Press)](http://www.ep.liu.se/ecp/043) [(zip)](https://github.com/modelica/ModelicaConference2009/releases/download/USB/Modelica2009.zip)
+  * [Sunday](proceedings/pages/MODEL09_ContentListWeb_1.md)
+  * [Monday](proceedings/pages/MODEL09_ContentListWeb_2.md)
+  * [Tuesday](proceedings/pages/MODEL09_ContentListWeb_3.md)
 * [Modelica Libraries](proceedings/pages/libraries.md)
 * [Programme Committee](organization.md)
 

@@ -1,0 +1,6 @@
+* Buildings-0.6.0 [(file)](libraries/Buildings-0.6.0.zip) [(paper)](papers/0042/0042_FI.pdf)
+* ComplexLib [(file)](libraries/ComplexLib.mo)
+* DESLib-1.2 [(file)](libraries/DESLib-1.2.zip) [(paper)](papers/0104/0104_FI.pdf)
+* FluidDissipation 1.0 Beta-3 [(file)](libraries/FluidDissipation-1.0-Beta-3) [(paper)](papers/0012/0012_FI.pdf)
+* MotorcycleLibV1.0 [(file)](libraries/MotorcycleLibV1.0.rar) [(paper)](papers/0030/0030_FI.pdf) [(thesis)](libraries/Thesis_MotorcycleLib.pdf)
+* WheelsAndTires_v10 [(file)](libraries/WheelsAndTires_v10.zip) [(paper)](papers/0029/0029_FI.pdf)
